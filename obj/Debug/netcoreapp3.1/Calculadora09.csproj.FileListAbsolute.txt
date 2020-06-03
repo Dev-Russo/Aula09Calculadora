@@ -1,0 +1,13 @@
+C:\Users\Murilo\Documents\Projetos\Calculadora09\bin\Debug\netcoreapp3.1\Calculadora09.exe
+C:\Users\Murilo\Documents\Projetos\Calculadora09\bin\Debug\netcoreapp3.1\Calculadora09.deps.json
+C:\Users\Murilo\Documents\Projetos\Calculadora09\bin\Debug\netcoreapp3.1\Calculadora09.runtimeconfig.json
+C:\Users\Murilo\Documents\Projetos\Calculadora09\bin\Debug\netcoreapp3.1\Calculadora09.runtimeconfig.dev.json
+C:\Users\Murilo\Documents\Projetos\Calculadora09\bin\Debug\netcoreapp3.1\Calculadora09.dll
+C:\Users\Murilo\Documents\Projetos\Calculadora09\bin\Debug\netcoreapp3.1\Calculadora09.pdb
+C:\Users\Murilo\Documents\Projetos\Calculadora09\obj\Debug\netcoreapp3.1\Calculadora09.csprojAssemblyReference.cache
+C:\Users\Murilo\Documents\Projetos\Calculadora09\obj\Debug\netcoreapp3.1\Calculadora09.csproj.CoreCompileInputs.cache
+C:\Users\Murilo\Documents\Projetos\Calculadora09\obj\Debug\netcoreapp3.1\Calculadora09.AssemblyInfoInputs.cache
+C:\Users\Murilo\Documents\Projetos\Calculadora09\obj\Debug\netcoreapp3.1\Calculadora09.AssemblyInfo.cs
+C:\Users\Murilo\Documents\Projetos\Calculadora09\obj\Debug\netcoreapp3.1\Calculadora09.dll
+C:\Users\Murilo\Documents\Projetos\Calculadora09\obj\Debug\netcoreapp3.1\Calculadora09.pdb
+C:\Users\Murilo\Documents\Projetos\Calculadora09\obj\Debug\netcoreapp3.1\Calculadora09.genruntimeconfig.cache
